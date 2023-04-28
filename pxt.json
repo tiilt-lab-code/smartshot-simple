@@ -1,10 +1,11 @@
 {
-    "name": "smartshot",
+    "name": "smartshot-with-logs",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "datalogger": "*"
     },
     "files": [
         "main.blocks",
